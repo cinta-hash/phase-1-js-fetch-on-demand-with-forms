@@ -2,8 +2,8 @@
   "movies": [
     {
       "id": 1,
-      "title": "The Brave Little Toaster",
-      "summary": "A group of appliances set off on a journey"
+      "title": "Frozen",
+      "summary": "Two sister find purpose and love"
     },
     {
       "id": 2,
@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Spirited Away",
       "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+    },
+    {
+      "id": 4,
+      "title": "The Brave Little Toaster",
+      "summary": "A group of appliances set off on a journey"
     }
   ]
 }
